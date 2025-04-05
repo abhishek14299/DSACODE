@@ -63,5 +63,4 @@ public class LinearSearch {
      * the number of steps required to locate the element grows proportionally. 
      * Therefore, the time complexity of this algorithm is O(n), where 'n' is the length of the array.
      */
-
 }
